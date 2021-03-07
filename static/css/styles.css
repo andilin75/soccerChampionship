@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+}
+
+th {
+    border-bottom: 1px solid grey;
+    width: 9.1%;
+    font-size: small;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+td {
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid grey;
+}
+
+.table_head {
+    background-color:  lightblue;
+}
+
+.club_column{
+    width: 250px;
+    text-align: left;
+}
